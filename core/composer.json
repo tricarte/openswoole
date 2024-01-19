@@ -1,5 +1,6 @@
 {
     "name": "openswoole/core",
+    "type": "library",
     "description": "Openswoole core library",
     "license": "Apache-2.0",
     "authors": [
